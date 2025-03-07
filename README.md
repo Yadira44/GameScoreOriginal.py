@@ -1,11 +1,13 @@
 # Pitcher-Game-Score-Calculator (Bill James)
 This Python program calculates a pitcher's game score based on the users-provided stats. 
-The GSC equation used for this app is the updated version by Tom Tango.
+The GSC equation used for this app is the original formula created by Bill James
 
 
 ## Features
 - Interactive user input
-- Calculates game score based on Tom Tango's updated version of Bill Jame's formula
+- Calculates game score based on Bill Jame's formula
 - Simple and beginner friendly
 
 ## Pitcher Game Score App
+
+https://gamescoreoriginalpy-nf2qgtgummrmxqvosuwwde.streamlit.app/
