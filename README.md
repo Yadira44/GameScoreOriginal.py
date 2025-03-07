@@ -10,4 +10,4 @@ The GSC equation used for this app is the original formula created by Bill James
 
 ## Pitcher Game Score App
 
-https://gamescoreoriginalpy-nf2qgtgummrmxqvosuwwde.streamlit.app/
+[Check it out] --> https://gamescoreoriginalpy-nf2qgtgummrmxqvosuwwde.streamlit.app/
